@@ -1,0 +1,2 @@
+Hello world.
+I'm doc2.txt file
